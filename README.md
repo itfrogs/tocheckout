@@ -1,4 +1,4 @@
-# tocheckout
+# To Checkout
 Webasyst Shop-Script plugin
 <p>
     <img src="https://www.webasyst.com/wa-data/public/baza/products/img/87/1887/icon.200x110.en_US.png" alt="Logo" />
