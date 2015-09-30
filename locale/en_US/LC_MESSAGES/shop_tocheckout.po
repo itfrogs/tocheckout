@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: shop/plugins/tocheckout\n"
+"POT-Creation-Date: 2015-09-30 17:56+0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: snark.pro <covoxx@gmail.com>\n"
+"Language-Team: shop/plugins/tocheckout <covoxx@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:5
+msgid "Enable the plugin"
+msgstr ""
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:6
+msgid "Check to enable the plugin."
+msgstr ""
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/plugin.php:3
+msgid "To checkout"
+msgstr ""
