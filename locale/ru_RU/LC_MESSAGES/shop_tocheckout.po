@@ -28,3 +28,19 @@ msgstr "Отметьте, чтобы включить плагин"
 #: /wa-apps/shop/plugins/tocheckout/lib/config/plugin.php:3
 msgid "To checkout"
 msgstr "Сразу в заказ"
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:10
+msgid "Direction of redirection"
+msgstr "Направление перенаправления"
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:11
+msgid "Set the direction of redirection."
+msgstr "Задайте направление для перенаправления после покупки"
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:15
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:16
+msgid "Cart"
+msgstr "Корзина"

@@ -26,3 +26,19 @@ msgstr ""
 #: /wa-apps/shop/plugins/tocheckout/lib/config/plugin.php:3
 msgid "To checkout"
 msgstr ""
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:10
+msgid "Direction of redirection"
+msgstr ""
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:11
+msgid "Set the direction of redirection."
+msgstr ""
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:15
+msgid "Checkout"
+msgstr ""
+
+#: /wa-apps/shop/plugins/tocheckout/lib/config/settings.php:16
+msgid "Cart"
+msgstr ""
